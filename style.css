@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: lightblue;
+    border: 10px solid lightgreen;
+    border-radius: 5px;
+    padding: 5px;
+}
+header a{
+    background-color: rgb(39, 182, 230);
+    border-radius: 5px;
+    padding: 5px;
+    color: blue;
+    text-decoration: none;
+}
+main h1{
+    color: purple;
+    text-align: center;
+}
+footer p{
+    background-color: lightgreen;
+    padding: 5px;
+}
+#contacts {
+    padding-left: 20px;
+}
+nav {
+    padding: 10px;
+    margin-top: 10px;
+}
+nav a{
+    text-decoration: none;
+    color: grey;
+    padding-top: 10px;
+    border:solid grey;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.prod p{
+    background-color: greenyellow;
+    padding: 10px;
+    color: black;
+    font-weight: bold;
+}
+#discont{
+    color: blue;
+    
+}
